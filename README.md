@@ -2,6 +2,8 @@
 
 출금 패턴은 컨트랙트가 가지고 있는 이더리움을 다른 주소에게 전송할 때 전송 받고자 하는 주소가 이더 출금 받는 함수를 직접 호출하여 전송하는 것을 의미합니다.
 
+[참고한 코드](https://solidity-kr.readthedocs.io/ko/latest/common-patterns.html)
+
 ```js
 // SPDX-License-Identifier: GPL
 pragma solidity 0.8.10;
